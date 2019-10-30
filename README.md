@@ -1,1 +1,1 @@
-# hati
+# rm -rf hati
